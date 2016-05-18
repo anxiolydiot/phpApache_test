@@ -1,15 +1,9 @@
-
-
 <?php
 
 $firstName = $_POST['fname'];
 $lastName = $_POST['lname'];
 
 
-
-
-// echo $firstName;
-// echo $lastName;
 
 
 echo $firstName . "'s last name is " . $lastName . '<br>';
